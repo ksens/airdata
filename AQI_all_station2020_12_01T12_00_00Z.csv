@@ -1,249 +1,249 @@
-"","state","city","station_name","aqi"
-"1","Andhra Pradesh","Amaravati","Secretariat, Amaravati - APPCB",82
-"2","Andhra Pradesh","Rajamahendravaram","Anand Kala Kshetram, Rajamahendravaram - APPCB",102
-"3","Andhra Pradesh","Tirupati","Tirumala, Tirupati - APPCB",55
-"4","Andhra Pradesh","Visakhapatnam","GVM Corporation, Visakhapatnam - APPCB",116
-"5","Assam","Guwahati","Railway Colony, Guwahati - APCB",162
-"6","Bihar","Gaya","Collectorate, Gaya - BSPCB",199
-"7","Bihar","Gaya","SFTI Kusdihra, Gaya - BSPCB",160
-"8","Bihar","Hajipur","Industrial Area, Hajipur - BSPCB",99
-"9","Bihar","Muzaffarpur","Buddha Colony, Muzaffarpur - BSPCB",175
-"10","Bihar","Muzaffarpur","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",340
-"11","Bihar","Patna","DRM Office Danapur, Patna - BSPCB",289
-"12","Bihar","Patna","Govt. High School Shikarpur, Patna - BSPCB",280
-"13","Bihar","Patna","IGSC Planetarium Complex, Patna - BSPCB",347
-"14","Bihar","Patna","Muradpur, Patna - BSPCB",278
-"15","Bihar","Patna","Rajbansi Nagar, Patna - BSPCB",290
-"16","Bihar","Patna","Samanpura, Patna - BSPCB",261
-"17","Chandigarh","Chandigarh","Sector-25, Chandigarh - CPCC",144
-"18","Delhi","Delhi","Alipur, Delhi - DPCC",NA
-"19","Delhi","Delhi","Anand Vihar, Delhi - DPCC",400
-"20","Delhi","Delhi","Ashok Vihar, Delhi - DPCC",415
-"21","Delhi","Delhi","Aya Nagar, Delhi - IMD",312
-"22","Delhi","Delhi","Bawana, Delhi - DPCC",394
-"23","Delhi","Delhi","CRRI Mathura Road, Delhi - IMD",337
-"24","Delhi","Delhi","Chandni Chowk, Delhi - IITM",360
-"25","Delhi","Delhi","DTU, Delhi - CPCB",386
-"26","Delhi","Delhi","Dr. Karni Singh Shooting Range, Delhi - DPCC",354
-"27","Delhi","Delhi","Dwarka-Sector 8, Delhi - DPCC",364
-"28","Delhi","Delhi","IGI Airport (T3), Delhi - IMD",319
-"29","Delhi","Delhi","IHBAS, Dilshad Garden, Delhi - CPCB",342
-"30","Delhi","Delhi","ITO, Delhi - CPCB",363
-"31","Delhi","Delhi","Jahangirpuri, Delhi - DPCC",421
-"32","Delhi","Delhi","Jawaharlal Nehru Stadium, Delhi - DPCC",359
-"33","Delhi","Delhi","Lodhi Road, Delhi - IITM",274
-"34","Delhi","Delhi","Lodhi Road, Delhi - IMD",301
-"35","Delhi","Delhi","Major Dhyan Chand National Stadium, Delhi - DPCC",331
-"36","Delhi","Delhi","Mandir Marg, Delhi - DPCC",349
-"37","Delhi","Delhi","Mundka, Delhi - DPCC",379
-"38","Delhi","Delhi","NSIT Dwarka, Delhi - CPCB",339
-"39","Delhi","Delhi","Najafgarh, Delhi - DPCC",305
-"40","Delhi","Delhi","Narela, Delhi - DPCC",393
-"41","Delhi","Delhi","Nehru Nagar, Delhi - DPCC",398
-"42","Delhi","Delhi","North Campus, DU, Delhi - IMD",340
-"43","Delhi","Delhi","Okhla Phase-2, Delhi - DPCC",367
-"44","Delhi","Delhi","Patparganj, Delhi - DPCC",401
-"45","Delhi","Delhi","Punjabi Bagh, Delhi - DPCC",377
-"46","Delhi","Delhi","Pusa, Delhi - DPCC",345
-"47","Delhi","Delhi","Pusa, Delhi - IMD",310
-"48","Delhi","Delhi","R K Puram, Delhi - DPCC",379
-"49","Delhi","Delhi","Rohini, Delhi - DPCC",391
-"50","Delhi","Delhi","Shadipur, Delhi - CPCB",324
-"51","Delhi","Delhi","Sirifort, Delhi - CPCB",340
-"52","Delhi","Delhi","Sonia Vihar, Delhi - DPCC",395
-"53","Delhi","Delhi","Sri Aurobindo Marg, Delhi - DPCC",322
-"54","Delhi","Delhi","Vivek Vihar, Delhi - DPCC",401
-"55","Delhi","Delhi","Wazirpur, Delhi - DPCC",297
-"56","Gujarat","Ahmedabad","Maninagar, Ahmedabad - GPCB",149
-"57","Gujarat","Ankleshwar","GIDC, Ankleshwar - GPCB",NA
-"58","Gujarat","Gandhinagar","Sector-10, Gandhinagar - GPCB",105
-"59","Gujarat","Nandesari","GIDC, Nandesari - Nandesari Ind. Association",83
-"60","Gujarat","Vapi","Phase-1 GIDC, Vapi - GPCB",147
-"61","Gujarat","Vatva","Phase-4 GIDC, Vatva - GPCB",180
-"62","Haryana","Ambala","Patti Mehar, Ambala - HSPCB",398
-"63","Haryana","Bahadurgarh","Arya Nagar, Bahadurgarh - HSPCB",298
-"64","Haryana","Ballabgarh","Nathu Colony, Ballabgarh - HSPCB",204
-"65","Haryana","Bhiwani","H.B. Colony, Bhiwani - HSPCB",168
-"66","Haryana","Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",226
-"67","Haryana","Dharuhera","Municipal Corporation Office, Dharuhera -  HSPCB",363
-"68","Haryana","Faridabad","New Industrial Town, Faridabad - HSPCB",335
-"69","Haryana","Faridabad","Sector 11, Faridabad - HSPCB",322
-"70","Haryana","Faridabad","Sector 30, Faridabad - HSPCB",307
-"71","Haryana","Faridabad","Sector- 16A, Faridabad - HSPCB",NA
-"72","Haryana","Fatehabad","Huda Sector, Fatehabad - HSPCB",350
-"73","Haryana","Gurugram","NISE Gwal Pahari, Gurugram - IMD",321
-"74","Haryana","Gurugram","Sector-51, Gurugram - HSPCB",280
-"75","Haryana","Gurugram","Teri Gram, Gurugram - HSPCB",280
-"76","Haryana","Gurugram","Vikas Sadan, Gurugram - HSPCB",338
-"77","Haryana","Hisar","Urban Estate-II, Hisar - HSPCB",336
-"78","Haryana","Jind","Police Lines, Jind - HSPCB",363
-"79","Haryana","Kaithal","Rishi Nagar, Kaithal - HSPCB",261
-"80","Haryana","Karnal","Sector-12, Karnal - HSPCB",239
-"81","Haryana","Kurukshetra","Sector-7, Kurukshetra - HSPCB",328
-"82","Haryana","Mandikhera","General Hospital, Mandikhera - HSPCB",167
-"83","Haryana","Manesar","Sector-2 IMT, Manesar - HSPCB",320
-"84","Haryana","Narnaul","Shastri Nagar, Narnaul - HSPCB",233
-"85","Haryana","Palwal","Shyam Nagar, Palwal - HSPCB",124
-"86","Haryana","Panchkula","Sector-6, Panchkula - HSPCB",224
-"87","Haryana","Panipat","Sector-18, Panipat - HSPCB",NA
-"88","Haryana","Rohtak","MD University, Rohtak - HSPCB",290
-"89","Haryana","Sirsa","F-Block, Sirsa - HSPCB",230
-"90","Haryana","Sonipat","Murthal, Sonipat - HSPCB",214
-"91","Haryana","Yamunanagar","Gobind Pura, Yamuna Nagar - HSPCB",NA
-"92","Jharkhand","Jorapokhar","Tata Stadium, Jorapokhar - JSPCB",73
-"93","Karnataka","Bagalkot","Vidayagiri, Bagalkot - KSPCB",50
-"94","Karnataka","Bengaluru","BTM Layout, Bengaluru - CPCB",NA
-"95","Karnataka","Bengaluru","BWSSB Kadabesanahalli, Bengaluru - CPCB",29
-"96","Karnataka","Bengaluru","Bapuji Nagar, Bengaluru - KSPCB",94
-"97","Karnataka","Bengaluru","City Railway Station, Bengaluru - KSPCB",88
-"98","Karnataka","Bengaluru","Hebbal, Bengaluru - KSPCB",64
-"99","Karnataka","Bengaluru","Hombegowda Nagar, Bengaluru - KSPCB",56
-"100","Karnataka","Bengaluru","Jayanagar 5th Block, Bengaluru - KSPCB",66
-"101","Karnataka","Bengaluru","Peenya, Bengaluru - CPCB",66
-"102","Karnataka","Bengaluru","Sanegurava Halli, Bengaluru - KSPCB",NA
-"103","Karnataka","Bengaluru","Silk Board, Bengaluru - KSPCB",52
-"104","Karnataka","Chamarajanagar","Urban, Chamarajanagar - KSPCB",NA
-"105","Karnataka","Chikkaballapur","Chikkaballapur Rural, Chikkaballapur - KSPCB",58
-"106","Karnataka","Chikkamagaluru","Kalyana Nagara, Chikkamagaluru - KSPCB",61
-"107","Karnataka","Hubballi","Deshpande Nagar, Hubballi - KSPCB",82
-"108","Karnataka","Kalaburagi","Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",94
-"109","Karnataka","Madikeri","Stuart Hill, Madikeri - KSPCB",43
-"110","Karnataka","Mysuru","Hebbal 1st Stage, Mysuru - KSPCB",30
-"111","Karnataka","Ramanagara","Vijay Nagar, Ramanagara - KSPCB",44
-"112","Karnataka","Shivamogga","Vinoba Nagara, Shivamogga - KSPCB",63
-"113","Karnataka","Vijayapura","Ibrahimpur, Vijayapura - KSPCB",50
-"114","Karnataka","Yadgir","Collector Office, Yadgir - KSPCB",NA
-"115","Kerala","Eloor","Udyogamandal, Eloor - Kerala PCB",36
-"116","Kerala","Ernakulam","Kacheripady, Ernakulam - Kerala PCB",76
-"117","Kerala","Kannur","Thavakkara, Kannur - Kerala PCB",60
-"118","Kerala","Kochi","Vyttila, Kochi - Kerala PCB",NA
-"119","Kerala","Kollam","Polayathode, Kollam - Kerala PCB",NA
-"120","Kerala","Kozhikode","Palayam, Kozhikode - Kerala PCB",47
-"121","Kerala","Thiruvananthapuram","Kariavattom, Thiruvananthapuram - Kerala PCB",NA
-"122","Kerala","Thiruvananthapuram","Plammoodu, Thiruvananthapuram - Kerala PCB",53
-"123","Kerala","Thrissur","Corporation Ground, Thrissur- Kerala PCB",66
-"124","Madhya Pradesh","Bhopal","T T Nagar, Bhopal - MPPCB",126
-"125","Madhya Pradesh","Damoh","Shrivastav Colony, Damoh - MPPCB",102
-"126","Madhya Pradesh","Dewas","Bhopal Chauraha, Dewas - MPPCB",84
-"127","Madhya Pradesh","Gwalior","City Center, Gwalior - MPPCB",285
-"128","Madhya Pradesh","Gwalior","Phool Bagh, Gwalior - Mondelez Ind. Food",NA
-"129","Madhya Pradesh","Indore","Chhoti Gwaltoli, Indore - MPPCB",98
-"130","Madhya Pradesh","Jabalpur","Marhatal, Jabalpur - MPPCB",200
-"131","Madhya Pradesh","Katni","Gole Bazar, Katni - MPPCB",226
-"132","Madhya Pradesh","Maihar","Sahilara, Maihar - KJS Cements",35
-"133","Madhya Pradesh","Mandideep","Sector-D Industrial Area, Mandideep - MPPCB",187
-"134","Madhya Pradesh","Pithampur","Sector-2 Industrial Area, Pithampur - MPPCB",104
-"135","Madhya Pradesh","Ratlam","Shasthri Nagar, Ratlam - IPCA Lab",110
-"136","Madhya Pradesh","Sagar","Deen Dayal Nagar, Sagar - MPPCB",81
-"137","Madhya Pradesh","Satna","Bandhavgar Colony, Satna - Birla Cement",66
-"138","Madhya Pradesh","Singrauli","Vindhyachal STPS, Singrauli - MPPCB",329
-"139","Madhya Pradesh","Ujjain","Mahakaleshwar Temple, Ujjain - MPPCB",151
-"140","Maharashtra","Aurangabad","More Chowk Waluj, Aurangabad - MPCB",80
-"141","Maharashtra","Chandrapur","Chandrapur, Chandrapur - MPCB",96
-"142","Maharashtra","Chandrapur","MIDC Khutala, Chandrapur - MPCB",105
-"143","Maharashtra","Kalyan","Khadakpada, Kalyan - MPCB",119
-"144","Maharashtra","Mumbai","Bandra Kurla Complex, Mumbai - IITM",71
-"145","Maharashtra","Mumbai","Bandra, Mumbai - MPCB",NA
-"146","Maharashtra","Mumbai","Borivali East, Mumbai - IITM",104
-"147","Maharashtra","Mumbai","Borivali East, Mumbai - MPCB",84
-"148","Maharashtra","Mumbai","Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",125
-"149","Maharashtra","Mumbai","Colaba, Mumbai - MPCB",102
-"150","Maharashtra","Mumbai","Deonar, Mumbai - IITM",160
-"151","Maharashtra","Mumbai","Kurla, Mumbai - MPCB",160
-"152","Maharashtra","Mumbai","Malad West, Mumbai - IITM",199
-"153","Maharashtra","Mumbai","Mazgaon, Mumbai - IITM",138
-"154","Maharashtra","Mumbai","Navy Nagar-Colaba, Mumbai - IITM",146
-"155","Maharashtra","Mumbai","Powai, Mumbai - MPCB",99
-"156","Maharashtra","Mumbai","Sion, Mumbai - MPCB",156
-"157","Maharashtra","Mumbai","Vasai West, Mumbai - MPCB",NA
-"158","Maharashtra","Mumbai","Vile Parle West, Mumbai - MPCB",130
-"159","Maharashtra","Mumbai","Worli, Mumbai - MPCB",169
-"160","Maharashtra","Nagpur","Opp GPO Civil Lines, Nagpur - MPCB",NA
-"161","Maharashtra","Nashik","Gangapur Road, Nashik - MPCB",91
-"162","Maharashtra","Navi Mumbai","Airoli, Navi Mumbai - MPCB",NA
-"163","Maharashtra","Navi Mumbai","Mahape, Navi Mumbai - MPCB",NA
-"164","Maharashtra","Navi Mumbai","Nerul, Navi Mumbai - MPCB",NA
-"165","Maharashtra","Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",99
-"166","Maharashtra","Pune","Bhosari, Pune - IITM",NA
-"167","Maharashtra","Pune","Karve Road, Pune - MPCB",47
-"168","Maharashtra","Pune","Mhada Colony, Pune - IITM",125
-"169","Maharashtra","Pune","Revenue Colony-Shivajinagar, Pune - IITM",210
-"170","Maharashtra","Pune","Transport Nagar-Nigdi, Pune - IITM",NA
-"171","Maharashtra","Solapur","Solapur, Solapur - MPCB",130
-"172","Maharashtra","Thane","Pimpleshwar Mandir, Thane - MPCB",142
-"173","Meghalaya","Shillong","Lumpyngngad, Shillong - Meghalaya PCB",27
-"174","Mizoram","Aizawl","Sikulpuikawn, Aizawl - Mizoram PCB",17
-"175","Nagaland","Kohima","PWD Juction, Kohima - NPCB",77
-"176","Odisha","Brajrajnagar","GM Office, Brajrajnagar - OSPCB",154
-"177","Odisha","Talcher","Talcher Coalfields,Talcher - OSPCB",125
-"178","Punjab","Amritsar","Golden Temple, Amritsar - PPCB",288
-"179","Punjab","Bathinda","Hardev Nagar, Bathinda - PPCB",148
-"180","Punjab","Jalandhar","Civil Line, Jalandhar - PPCB",234
-"181","Punjab","Khanna","Kalal Majra, Khanna - PPCB",261
-"182","Punjab","Ludhiana","Punjab Agricultural University, Ludhiana - PPCB",255
-"183","Punjab","Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",204
-"184","Punjab","Patiala","Model Town, Patiala - PPCB",234
-"185","Punjab","Rupnagar","Ratanpura, Rupnagar - Ambuja Cements",134
-"186","Rajasthan","Ajmer","Civil Lines,  Ajmer - RSPCB",93
-"187","Rajasthan","Alwar","Moti Doongri, Alwar - RSPCB",100
-"188","Rajasthan","Bhiwadi","RIICO Ind. Area III, Bhiwadi - RSPCB",355
-"189","Rajasthan","Jaipur","Adarsh Nagar, Jaipur - RSPCB",134
-"190","Rajasthan","Jaipur","Police Commissionerate, Jaipur - RSPCB",145
-"191","Rajasthan","Jaipur","Shastri Nagar, Jaipur - RSPCB",120
-"192","Rajasthan","Jodhpur","Collectorate, Jodhpur - RSPCB",225
-"193","Rajasthan","Kota","Shrinath Puram, Kota - RSPCB",148
-"194","Rajasthan","Pali","Indira Colony Vistar, Pali - RSPCB",137
-"195","Rajasthan","Udaipur","Ashok Nagar, Udaipur - RSPCB",117
-"196","Tamil Nadu","Chennai","Alandur Bus Depot, Chennai - CPCB",37
-"197","Tamil Nadu","Chennai","Arumbakkam, Chennai - TNPCB",78
-"198","Tamil Nadu","Chennai","Kodungaiyur, Chennai - TNPCB",74
-"199","Tamil Nadu","Chennai","Manali Village, Chennai - TNPCB",122
-"200","Tamil Nadu","Chennai","Manali, Chennai - CPCB",52
-"201","Tamil Nadu","Chennai","Royapuram, Chennai - TNPCB",57
-"202","Tamil Nadu","Chennai","Velachery Res. Area, Chennai - CPCB",38
-"203","Tamil Nadu","Coimbatore","SIDCO Kurichi, Coimbatore - TNPCB",NA
-"204","Tamil Nadu","Thoothukudi","Meelavittan, Thoothukudi - TNPCB",52
-"205","Telangana","Hyderabad","Bollaram Industrial Area, Hyderabad - TSPCB",134
-"206","Telangana","Hyderabad","Central University, Hyderabad - TSPCB",122
-"207","Telangana","Hyderabad","ICRISAT Patancheru, Hyderabad - TSPCB",122
-"208","Telangana","Hyderabad","IDA Pashamylaram, Hyderabad - TSPCB",124
-"209","Telangana","Hyderabad","Sanathnagar, Hyderabad - TSPCB",185
-"210","Telangana","Hyderabad","Zoo Park, Hyderabad - TSPCB",128
-"211","Tripura","Agartala","Kunjaban, Agartala - Tripura SPCB",228
-"212","Uttar Pradesh","Agra","Sanjay Palace, Agra - UPPCB",287
-"213","Uttar Pradesh","Baghpat","New Collectorate, Baghpat - UPPCB",364
-"214","Uttar Pradesh","Bulandshahr","Yamunapuram, Bulandshahr - UPPCB",378
-"215","Uttar Pradesh","Ghaziabad","Indirapuram, Ghaziabad - UPPCB",422
-"216","Uttar Pradesh","Ghaziabad","Loni, Ghaziabad - UPPCB",437
-"217","Uttar Pradesh","Ghaziabad","Sanjay Nagar, Ghaziabad - UPPCB",398
-"218","Uttar Pradesh","Ghaziabad","Vasundhara, Ghaziabad - UPPCB",396
-"219","Uttar Pradesh","Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",359
-"220","Uttar Pradesh","Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",390
-"221","Uttar Pradesh","Hapur","Anand Vihar, Hapur - UPPCB",191
-"222","Uttar Pradesh","Kanpur","Nehru Nagar, Kanpur - UPPCB",363
-"223","Uttar Pradesh","Lucknow","Central School, Lucknow - CPCB",258
-"224","Uttar Pradesh","Lucknow","Gomti Nagar, Lucknow - UPPCB",NA
-"225","Uttar Pradesh","Lucknow","Lalbagh, Lucknow - CPCB",340
-"226","Uttar Pradesh","Lucknow","Talkatora District Industries Center, Lucknow - CPCB",348
-"227","Uttar Pradesh","Meerut","Ganga Nagar, Meerut - UPPCB",312
-"228","Uttar Pradesh","Meerut","Jai Bhim Nagar, Meerut - UPPCB",381
-"229","Uttar Pradesh","Meerut","Pallavpuram Phase 2, Meerut - UPPCB",333
-"230","Uttar Pradesh","Moradabad","Lajpat Nagar, Moradabad - UPPCB",364
-"231","Uttar Pradesh","Muzaffarnagar","New Mandi, Muzaffarnagar - UPPCB",361
-"232","Uttar Pradesh","Noida","Sector - 125, Noida - UPPCB",NA
-"233","Uttar Pradesh","Noida","Sector - 62, Noida - IMD",378
-"234","Uttar Pradesh","Noida","Sector-1, Noida - UPPCB",363
-"235","Uttar Pradesh","Noida","Sector-116, Noida - UPPCB",394
-"236","Uttar Pradesh","Varanasi","Ardhali Bazar, Varanasi - UPPCB",263
-"237","West Bengal","Asansol","Asansol Court Area, Asansol - WBPCB",173
-"238","West Bengal","Howrah","Belur Math, Howrah - WBPCB",238
-"239","West Bengal","Howrah","Ghusuri, Howrah - WBPCB",271
-"240","West Bengal","Howrah","Padmapukur, Howrah - WBPCB",283
-"241","West Bengal","Kolkata","Ballygunge, Kolkata - WBPCB",259
-"242","West Bengal","Kolkata","Bidhannagar, Kolkata - WBPCB",226
-"243","West Bengal","Kolkata","Fort William, Kolkata - WBPCB",261
-"244","West Bengal","Kolkata","Jadavpur, Kolkata - WBPCB",266
-"245","West Bengal","Kolkata","Rabindra Bharati University, Kolkata - WBPCB",311
-"246","West Bengal","Kolkata","Rabindra Sarobar, Kolkata - WBPCB",232
-"247","West Bengal","Kolkata","Victoria, Kolkata - WBPCB",243
-"248","West Bengal","Siliguri","Ward-32 Bapupara, Siliguri - WBPCB",NA
+"state","city","station_name","aqi"
+"Andhra Pradesh","Amaravati","Secretariat, Amaravati - APPCB",82
+"Andhra Pradesh","Rajamahendravaram","Anand Kala Kshetram, Rajamahendravaram - APPCB",102
+"Andhra Pradesh","Tirupati","Tirumala, Tirupati - APPCB",55
+"Andhra Pradesh","Visakhapatnam","GVM Corporation, Visakhapatnam - APPCB",116
+"Assam","Guwahati","Railway Colony, Guwahati - APCB",162
+"Bihar","Gaya","Collectorate, Gaya - BSPCB",199
+"Bihar","Gaya","SFTI Kusdihra, Gaya - BSPCB",160
+"Bihar","Hajipur","Industrial Area, Hajipur - BSPCB",99
+"Bihar","Muzaffarpur","Buddha Colony, Muzaffarpur - BSPCB",175
+"Bihar","Muzaffarpur","Muzaffarpur Collectorate, Muzaffarpur - BSPCB",340
+"Bihar","Patna","DRM Office Danapur, Patna - BSPCB",289
+"Bihar","Patna","Govt. High School Shikarpur, Patna - BSPCB",280
+"Bihar","Patna","IGSC Planetarium Complex, Patna - BSPCB",347
+"Bihar","Patna","Muradpur, Patna - BSPCB",278
+"Bihar","Patna","Rajbansi Nagar, Patna - BSPCB",290
+"Bihar","Patna","Samanpura, Patna - BSPCB",261
+"Chandigarh","Chandigarh","Sector-25, Chandigarh - CPCC",144
+"Delhi","Delhi","Alipur, Delhi - DPCC",NA
+"Delhi","Delhi","Anand Vihar, Delhi - DPCC",400
+"Delhi","Delhi","Ashok Vihar, Delhi - DPCC",415
+"Delhi","Delhi","Aya Nagar, Delhi - IMD",312
+"Delhi","Delhi","Bawana, Delhi - DPCC",394
+"Delhi","Delhi","CRRI Mathura Road, Delhi - IMD",337
+"Delhi","Delhi","Chandni Chowk, Delhi - IITM",360
+"Delhi","Delhi","DTU, Delhi - CPCB",386
+"Delhi","Delhi","Dr. Karni Singh Shooting Range, Delhi - DPCC",354
+"Delhi","Delhi","Dwarka-Sector 8, Delhi - DPCC",364
+"Delhi","Delhi","IGI Airport (T3), Delhi - IMD",319
+"Delhi","Delhi","IHBAS, Dilshad Garden, Delhi - CPCB",342
+"Delhi","Delhi","ITO, Delhi - CPCB",363
+"Delhi","Delhi","Jahangirpuri, Delhi - DPCC",421
+"Delhi","Delhi","Jawaharlal Nehru Stadium, Delhi - DPCC",359
+"Delhi","Delhi","Lodhi Road, Delhi - IITM",274
+"Delhi","Delhi","Lodhi Road, Delhi - IMD",301
+"Delhi","Delhi","Major Dhyan Chand National Stadium, Delhi - DPCC",331
+"Delhi","Delhi","Mandir Marg, Delhi - DPCC",349
+"Delhi","Delhi","Mundka, Delhi - DPCC",379
+"Delhi","Delhi","NSIT Dwarka, Delhi - CPCB",339
+"Delhi","Delhi","Najafgarh, Delhi - DPCC",305
+"Delhi","Delhi","Narela, Delhi - DPCC",393
+"Delhi","Delhi","Nehru Nagar, Delhi - DPCC",398
+"Delhi","Delhi","North Campus, DU, Delhi - IMD",340
+"Delhi","Delhi","Okhla Phase-2, Delhi - DPCC",367
+"Delhi","Delhi","Patparganj, Delhi - DPCC",401
+"Delhi","Delhi","Punjabi Bagh, Delhi - DPCC",377
+"Delhi","Delhi","Pusa, Delhi - DPCC",345
+"Delhi","Delhi","Pusa, Delhi - IMD",310
+"Delhi","Delhi","R K Puram, Delhi - DPCC",379
+"Delhi","Delhi","Rohini, Delhi - DPCC",391
+"Delhi","Delhi","Shadipur, Delhi - CPCB",324
+"Delhi","Delhi","Sirifort, Delhi - CPCB",340
+"Delhi","Delhi","Sonia Vihar, Delhi - DPCC",395
+"Delhi","Delhi","Sri Aurobindo Marg, Delhi - DPCC",322
+"Delhi","Delhi","Vivek Vihar, Delhi - DPCC",401
+"Delhi","Delhi","Wazirpur, Delhi - DPCC",297
+"Gujarat","Ahmedabad","Maninagar, Ahmedabad - GPCB",149
+"Gujarat","Ankleshwar","GIDC, Ankleshwar - GPCB",NA
+"Gujarat","Gandhinagar","Sector-10, Gandhinagar - GPCB",105
+"Gujarat","Nandesari","GIDC, Nandesari - Nandesari Ind. Association",83
+"Gujarat","Vapi","Phase-1 GIDC, Vapi - GPCB",147
+"Gujarat","Vatva","Phase-4 GIDC, Vatva - GPCB",180
+"Haryana","Ambala","Patti Mehar, Ambala - HSPCB",398
+"Haryana","Bahadurgarh","Arya Nagar, Bahadurgarh - HSPCB",298
+"Haryana","Ballabgarh","Nathu Colony, Ballabgarh - HSPCB",204
+"Haryana","Bhiwani","H.B. Colony, Bhiwani - HSPCB",168
+"Haryana","Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB",226
+"Haryana","Dharuhera","Municipal Corporation Office, Dharuhera -  HSPCB",363
+"Haryana","Faridabad","New Industrial Town, Faridabad - HSPCB",335
+"Haryana","Faridabad","Sector 11, Faridabad - HSPCB",322
+"Haryana","Faridabad","Sector 30, Faridabad - HSPCB",307
+"Haryana","Faridabad","Sector- 16A, Faridabad - HSPCB",NA
+"Haryana","Fatehabad","Huda Sector, Fatehabad - HSPCB",350
+"Haryana","Gurugram","NISE Gwal Pahari, Gurugram - IMD",321
+"Haryana","Gurugram","Sector-51, Gurugram - HSPCB",280
+"Haryana","Gurugram","Teri Gram, Gurugram - HSPCB",280
+"Haryana","Gurugram","Vikas Sadan, Gurugram - HSPCB",338
+"Haryana","Hisar","Urban Estate-II, Hisar - HSPCB",336
+"Haryana","Jind","Police Lines, Jind - HSPCB",363
+"Haryana","Kaithal","Rishi Nagar, Kaithal - HSPCB",261
+"Haryana","Karnal","Sector-12, Karnal - HSPCB",239
+"Haryana","Kurukshetra","Sector-7, Kurukshetra - HSPCB",328
+"Haryana","Mandikhera","General Hospital, Mandikhera - HSPCB",167
+"Haryana","Manesar","Sector-2 IMT, Manesar - HSPCB",320
+"Haryana","Narnaul","Shastri Nagar, Narnaul - HSPCB",233
+"Haryana","Palwal","Shyam Nagar, Palwal - HSPCB",124
+"Haryana","Panchkula","Sector-6, Panchkula - HSPCB",224
+"Haryana","Panipat","Sector-18, Panipat - HSPCB",NA
+"Haryana","Rohtak","MD University, Rohtak - HSPCB",290
+"Haryana","Sirsa","F-Block, Sirsa - HSPCB",230
+"Haryana","Sonipat","Murthal, Sonipat - HSPCB",214
+"Haryana","Yamunanagar","Gobind Pura, Yamuna Nagar - HSPCB",NA
+"Jharkhand","Jorapokhar","Tata Stadium, Jorapokhar - JSPCB",73
+"Karnataka","Bagalkot","Vidayagiri, Bagalkot - KSPCB",50
+"Karnataka","Bengaluru","BTM Layout, Bengaluru - CPCB",NA
+"Karnataka","Bengaluru","BWSSB Kadabesanahalli, Bengaluru - CPCB",29
+"Karnataka","Bengaluru","Bapuji Nagar, Bengaluru - KSPCB",94
+"Karnataka","Bengaluru","City Railway Station, Bengaluru - KSPCB",88
+"Karnataka","Bengaluru","Hebbal, Bengaluru - KSPCB",64
+"Karnataka","Bengaluru","Hombegowda Nagar, Bengaluru - KSPCB",56
+"Karnataka","Bengaluru","Jayanagar 5th Block, Bengaluru - KSPCB",66
+"Karnataka","Bengaluru","Peenya, Bengaluru - CPCB",66
+"Karnataka","Bengaluru","Sanegurava Halli, Bengaluru - KSPCB",NA
+"Karnataka","Bengaluru","Silk Board, Bengaluru - KSPCB",52
+"Karnataka","Chamarajanagar","Urban, Chamarajanagar - KSPCB",NA
+"Karnataka","Chikkaballapur","Chikkaballapur Rural, Chikkaballapur - KSPCB",58
+"Karnataka","Chikkamagaluru","Kalyana Nagara, Chikkamagaluru - KSPCB",61
+"Karnataka","Hubballi","Deshpande Nagar, Hubballi - KSPCB",82
+"Karnataka","Kalaburagi","Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",94
+"Karnataka","Madikeri","Stuart Hill, Madikeri - KSPCB",43
+"Karnataka","Mysuru","Hebbal 1st Stage, Mysuru - KSPCB",30
+"Karnataka","Ramanagara","Vijay Nagar, Ramanagara - KSPCB",44
+"Karnataka","Shivamogga","Vinoba Nagara, Shivamogga - KSPCB",63
+"Karnataka","Vijayapura","Ibrahimpur, Vijayapura - KSPCB",50
+"Karnataka","Yadgir","Collector Office, Yadgir - KSPCB",NA
+"Kerala","Eloor","Udyogamandal, Eloor - Kerala PCB",36
+"Kerala","Ernakulam","Kacheripady, Ernakulam - Kerala PCB",76
+"Kerala","Kannur","Thavakkara, Kannur - Kerala PCB",60
+"Kerala","Kochi","Vyttila, Kochi - Kerala PCB",NA
+"Kerala","Kollam","Polayathode, Kollam - Kerala PCB",NA
+"Kerala","Kozhikode","Palayam, Kozhikode - Kerala PCB",47
+"Kerala","Thiruvananthapuram","Kariavattom, Thiruvananthapuram - Kerala PCB",NA
+"Kerala","Thiruvananthapuram","Plammoodu, Thiruvananthapuram - Kerala PCB",53
+"Kerala","Thrissur","Corporation Ground, Thrissur- Kerala PCB",66
+"Madhya Pradesh","Bhopal","T T Nagar, Bhopal - MPPCB",126
+"Madhya Pradesh","Damoh","Shrivastav Colony, Damoh - MPPCB",102
+"Madhya Pradesh","Dewas","Bhopal Chauraha, Dewas - MPPCB",84
+"Madhya Pradesh","Gwalior","City Center, Gwalior - MPPCB",285
+"Madhya Pradesh","Gwalior","Phool Bagh, Gwalior - Mondelez Ind. Food",NA
+"Madhya Pradesh","Indore","Chhoti Gwaltoli, Indore - MPPCB",98
+"Madhya Pradesh","Jabalpur","Marhatal, Jabalpur - MPPCB",200
+"Madhya Pradesh","Katni","Gole Bazar, Katni - MPPCB",226
+"Madhya Pradesh","Maihar","Sahilara, Maihar - KJS Cements",35
+"Madhya Pradesh","Mandideep","Sector-D Industrial Area, Mandideep - MPPCB",187
+"Madhya Pradesh","Pithampur","Sector-2 Industrial Area, Pithampur - MPPCB",104
+"Madhya Pradesh","Ratlam","Shasthri Nagar, Ratlam - IPCA Lab",110
+"Madhya Pradesh","Sagar","Deen Dayal Nagar, Sagar - MPPCB",81
+"Madhya Pradesh","Satna","Bandhavgar Colony, Satna - Birla Cement",66
+"Madhya Pradesh","Singrauli","Vindhyachal STPS, Singrauli - MPPCB",329
+"Madhya Pradesh","Ujjain","Mahakaleshwar Temple, Ujjain - MPPCB",151
+"Maharashtra","Aurangabad","More Chowk Waluj, Aurangabad - MPCB",80
+"Maharashtra","Chandrapur","Chandrapur, Chandrapur - MPCB",96
+"Maharashtra","Chandrapur","MIDC Khutala, Chandrapur - MPCB",105
+"Maharashtra","Kalyan","Khadakpada, Kalyan - MPCB",119
+"Maharashtra","Mumbai","Bandra Kurla Complex, Mumbai - IITM",71
+"Maharashtra","Mumbai","Bandra, Mumbai - MPCB",NA
+"Maharashtra","Mumbai","Borivali East, Mumbai - IITM",104
+"Maharashtra","Mumbai","Borivali East, Mumbai - MPCB",84
+"Maharashtra","Mumbai","Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",125
+"Maharashtra","Mumbai","Colaba, Mumbai - MPCB",102
+"Maharashtra","Mumbai","Deonar, Mumbai - IITM",160
+"Maharashtra","Mumbai","Kurla, Mumbai - MPCB",160
+"Maharashtra","Mumbai","Malad West, Mumbai - IITM",199
+"Maharashtra","Mumbai","Mazgaon, Mumbai - IITM",138
+"Maharashtra","Mumbai","Navy Nagar-Colaba, Mumbai - IITM",146
+"Maharashtra","Mumbai","Powai, Mumbai - MPCB",99
+"Maharashtra","Mumbai","Sion, Mumbai - MPCB",156
+"Maharashtra","Mumbai","Vasai West, Mumbai - MPCB",NA
+"Maharashtra","Mumbai","Vile Parle West, Mumbai - MPCB",130
+"Maharashtra","Mumbai","Worli, Mumbai - MPCB",169
+"Maharashtra","Nagpur","Opp GPO Civil Lines, Nagpur - MPCB",NA
+"Maharashtra","Nashik","Gangapur Road, Nashik - MPCB",91
+"Maharashtra","Navi Mumbai","Airoli, Navi Mumbai - MPCB",NA
+"Maharashtra","Navi Mumbai","Mahape, Navi Mumbai - MPCB",NA
+"Maharashtra","Navi Mumbai","Nerul, Navi Mumbai - MPCB",NA
+"Maharashtra","Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM",99
+"Maharashtra","Pune","Bhosari, Pune - IITM",NA
+"Maharashtra","Pune","Karve Road, Pune - MPCB",47
+"Maharashtra","Pune","Mhada Colony, Pune - IITM",125
+"Maharashtra","Pune","Revenue Colony-Shivajinagar, Pune - IITM",210
+"Maharashtra","Pune","Transport Nagar-Nigdi, Pune - IITM",NA
+"Maharashtra","Solapur","Solapur, Solapur - MPCB",130
+"Maharashtra","Thane","Pimpleshwar Mandir, Thane - MPCB",142
+"Meghalaya","Shillong","Lumpyngngad, Shillong - Meghalaya PCB",27
+"Mizoram","Aizawl","Sikulpuikawn, Aizawl - Mizoram PCB",17
+"Nagaland","Kohima","PWD Juction, Kohima - NPCB",77
+"Odisha","Brajrajnagar","GM Office, Brajrajnagar - OSPCB",154
+"Odisha","Talcher","Talcher Coalfields,Talcher - OSPCB",125
+"Punjab","Amritsar","Golden Temple, Amritsar - PPCB",288
+"Punjab","Bathinda","Hardev Nagar, Bathinda - PPCB",148
+"Punjab","Jalandhar","Civil Line, Jalandhar - PPCB",234
+"Punjab","Khanna","Kalal Majra, Khanna - PPCB",261
+"Punjab","Ludhiana","Punjab Agricultural University, Ludhiana - PPCB",255
+"Punjab","Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",204
+"Punjab","Patiala","Model Town, Patiala - PPCB",234
+"Punjab","Rupnagar","Ratanpura, Rupnagar - Ambuja Cements",134
+"Rajasthan","Ajmer","Civil Lines,  Ajmer - RSPCB",93
+"Rajasthan","Alwar","Moti Doongri, Alwar - RSPCB",100
+"Rajasthan","Bhiwadi","RIICO Ind. Area III, Bhiwadi - RSPCB",355
+"Rajasthan","Jaipur","Adarsh Nagar, Jaipur - RSPCB",134
+"Rajasthan","Jaipur","Police Commissionerate, Jaipur - RSPCB",145
+"Rajasthan","Jaipur","Shastri Nagar, Jaipur - RSPCB",120
+"Rajasthan","Jodhpur","Collectorate, Jodhpur - RSPCB",225
+"Rajasthan","Kota","Shrinath Puram, Kota - RSPCB",148
+"Rajasthan","Pali","Indira Colony Vistar, Pali - RSPCB",137
+"Rajasthan","Udaipur","Ashok Nagar, Udaipur - RSPCB",117
+"Tamil Nadu","Chennai","Alandur Bus Depot, Chennai - CPCB",37
+"Tamil Nadu","Chennai","Arumbakkam, Chennai - TNPCB",78
+"Tamil Nadu","Chennai","Kodungaiyur, Chennai - TNPCB",74
+"Tamil Nadu","Chennai","Manali Village, Chennai - TNPCB",122
+"Tamil Nadu","Chennai","Manali, Chennai - CPCB",52
+"Tamil Nadu","Chennai","Royapuram, Chennai - TNPCB",57
+"Tamil Nadu","Chennai","Velachery Res. Area, Chennai - CPCB",38
+"Tamil Nadu","Coimbatore","SIDCO Kurichi, Coimbatore - TNPCB",NA
+"Tamil Nadu","Thoothukudi","Meelavittan, Thoothukudi - TNPCB",52
+"Telangana","Hyderabad","Bollaram Industrial Area, Hyderabad - TSPCB",134
+"Telangana","Hyderabad","Central University, Hyderabad - TSPCB",122
+"Telangana","Hyderabad","ICRISAT Patancheru, Hyderabad - TSPCB",122
+"Telangana","Hyderabad","IDA Pashamylaram, Hyderabad - TSPCB",124
+"Telangana","Hyderabad","Sanathnagar, Hyderabad - TSPCB",185
+"Telangana","Hyderabad","Zoo Park, Hyderabad - TSPCB",128
+"Tripura","Agartala","Kunjaban, Agartala - Tripura SPCB",228
+"Uttar Pradesh","Agra","Sanjay Palace, Agra - UPPCB",287
+"Uttar Pradesh","Baghpat","New Collectorate, Baghpat - UPPCB",364
+"Uttar Pradesh","Bulandshahr","Yamunapuram, Bulandshahr - UPPCB",378
+"Uttar Pradesh","Ghaziabad","Indirapuram, Ghaziabad - UPPCB",422
+"Uttar Pradesh","Ghaziabad","Loni, Ghaziabad - UPPCB",437
+"Uttar Pradesh","Ghaziabad","Sanjay Nagar, Ghaziabad - UPPCB",398
+"Uttar Pradesh","Ghaziabad","Vasundhara, Ghaziabad - UPPCB",396
+"Uttar Pradesh","Greater Noida","Knowledge Park - III, Greater Noida - UPPCB",359
+"Uttar Pradesh","Greater Noida","Knowledge Park - V, Greater Noida - UPPCB",390
+"Uttar Pradesh","Hapur","Anand Vihar, Hapur - UPPCB",191
+"Uttar Pradesh","Kanpur","Nehru Nagar, Kanpur - UPPCB",363
+"Uttar Pradesh","Lucknow","Central School, Lucknow - CPCB",258
+"Uttar Pradesh","Lucknow","Gomti Nagar, Lucknow - UPPCB",NA
+"Uttar Pradesh","Lucknow","Lalbagh, Lucknow - CPCB",340
+"Uttar Pradesh","Lucknow","Talkatora District Industries Center, Lucknow - CPCB",348
+"Uttar Pradesh","Meerut","Ganga Nagar, Meerut - UPPCB",312
+"Uttar Pradesh","Meerut","Jai Bhim Nagar, Meerut - UPPCB",381
+"Uttar Pradesh","Meerut","Pallavpuram Phase 2, Meerut - UPPCB",333
+"Uttar Pradesh","Moradabad","Lajpat Nagar, Moradabad - UPPCB",364
+"Uttar Pradesh","Muzaffarnagar","New Mandi, Muzaffarnagar - UPPCB",361
+"Uttar Pradesh","Noida","Sector - 125, Noida - UPPCB",NA
+"Uttar Pradesh","Noida","Sector - 62, Noida - IMD",378
+"Uttar Pradesh","Noida","Sector-1, Noida - UPPCB",363
+"Uttar Pradesh","Noida","Sector-116, Noida - UPPCB",394
+"Uttar Pradesh","Varanasi","Ardhali Bazar, Varanasi - UPPCB",263
+"West Bengal","Asansol","Asansol Court Area, Asansol - WBPCB",173
+"West Bengal","Howrah","Belur Math, Howrah - WBPCB",238
+"West Bengal","Howrah","Ghusuri, Howrah - WBPCB",271
+"West Bengal","Howrah","Padmapukur, Howrah - WBPCB",283
+"West Bengal","Kolkata","Ballygunge, Kolkata - WBPCB",259
+"West Bengal","Kolkata","Bidhannagar, Kolkata - WBPCB",226
+"West Bengal","Kolkata","Fort William, Kolkata - WBPCB",261
+"West Bengal","Kolkata","Jadavpur, Kolkata - WBPCB",266
+"West Bengal","Kolkata","Rabindra Bharati University, Kolkata - WBPCB",311
+"West Bengal","Kolkata","Rabindra Sarobar, Kolkata - WBPCB",232
+"West Bengal","Kolkata","Victoria, Kolkata - WBPCB",243
+"West Bengal","Siliguri","Ward-32 Bapupara, Siliguri - WBPCB",NA
