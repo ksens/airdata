@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Graphing data</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.0/dist/chart.min.js"></script>
+</head>
+
+<body>
+  <canvas id="myChart" width="400" height="400"></canvas>
+</body>
+<script>
+
+  async function chartIt() {
+    const data = await getData();
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: data.xlabels,
+        datasets: [{
+          label: 'Number of air quality stations',
+          data: data.num_stations_vec,
+          backgroundColor: [
+            'rgba(255, 99, 132, 0.2)',
+            'rgba(54, 162, 235, 0.2)'
+          ],
+          borderColor: [
+            'rgba(255, 99, 132, 1)',
+            'rgba(54, 162, 235, 1)'
+          ],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        },
+        indexAxis: 'y'
+      }
+    });
+  }
+  const datapath = 'https://raw.githubusercontent.com/ksens/airdata/main/AQI_all_station2020_12_01T12_00_00Z_aggregate_by_city.csv'
+
+  // getData();
+  chartIt();
+
+  async function getData() {
+    const xlabels = [];
+    const num_stations_vec = [];
+    const response = await fetch(datapath);
+    console.log(response);
+    const data = await response.text();
+    data.trim();
+    // console.log(data);
+    const table = data.split('\n').slice(1);
+    console.log(table);
+
+    table.forEach(row => {
+      const columns = row.split(',');
+      // console.log(row);
+      const city = columns[0];
+      const num_stations = columns[1];
+      console.log(city, ":", num_stations);
+      xlabels.push(city);
+      num_stations_vec.push(num_stations);
+    });
+    return { xlabels, num_stations_vec };
+  }
+</script>
+
+</html>

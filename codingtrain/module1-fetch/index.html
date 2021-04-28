@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <img src="" id="rainbow" width="480" />
+  <p id="poem" />
+  <script>
+    console.log('hello')
+    const xx = 'https://raw.githubusercontent.com/CodingTrain/Intro-to-Data-APIs-JS/bec568101b70e727284eb86722bc3ce1880be2f4/module1/01_fetch_image/rainbow.jpg'
+    const textpath = 'https://raw.githubusercontent.com/CodingTrain/Intro-to-Data-APIs-JS/source/module1/01a_fetch_exercise_text/poem.txt'
+    const filenames = [
+      xx,
+      'https://raw.githubusercontent.com/CodingTrain/Intro-to-Data-APIs-JS/source/module1/01b_fetch_exercise_array/images/daniele-levis-pelusi-311027-unsplash.jpg'
+    ]
+
+    catchRainbow()
+      .then(response => {
+        console.log('yay ');
+      })
+      .catch(error => {
+        console.log('error!')
+        console.error(error);
+      });
+
+    catchPoem()
+      .catch(error => {
+        console.log('error!')
+        console.error(error);
+      });
+
+    catchRainbows();
+
+    async function catchRainbow() {
+      const response = await fetch(xx);
+      console.log(response);
+      const blob = await response.blob();
+      console.log(blob);
+      document.getElementById('rainbow').src = URL.createObjectURL(blob);
+
+    }
+
+    async function catchPoem() {
+      const response = await fetch(textpath);
+      console.log(response);
+      const blob = await response.text();
+      console.log(blob);
+      document.getElementById('poem').innerText = blob;
+    }
+
+    async function catchRainbows() {
+      for (let filename of filenames) {
+        console.log(filename);
+        const response = await fetch(filename);
+        const blob = await response.blob();
+        const img = document.createElement('img');
+        img.src = URL.createObjectURL(blob);
+        img.width = '200';
+        document.body.append(img);
+      }
+    }
+  </script>
+
+</body>
+
+</html>
