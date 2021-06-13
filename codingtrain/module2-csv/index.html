@@ -23,11 +23,8 @@
             {
               label: "Number of air quality stations",
               data: data.num_stations_vec,
-              backgroundColor: [
-                "rgba(255, 99, 132, 0.9)",
-                "rgba(54, 162, 235, 0.9)",
-              ],
-              borderColor: ["rgba(255, 99, 132, 1)", "rgba(54, 162, 235, 1)"],
+              backgroundColor: data.backgroundColor_vec,
+              borderColor: data.backgroundColor_vec,
               borderWidth: 1,
             },
           ],
@@ -56,6 +53,7 @@
     async function getData() {
       const xlabels = [];
       const num_stations_vec = [];
+      const backgroundColor_vec = [];
       const response = await fetch(datapath);
       console.log(response);
       const data = await response.text();
@@ -72,8 +70,13 @@
         console.log(city, ":", num_stations);
         xlabels.push(city);
         num_stations_vec.push(num_stations);
+        if (num_stations == 1) {
+          backgroundColor_vec.push("#1F85DE");
+        } else {
+          backgroundColor_vec.push("#8CDE1F");
+        }
       });
-      return { xlabels, num_stations_vec };
+      return { xlabels, num_stations_vec, backgroundColor_vec };
     }
   </script>
 </html>
