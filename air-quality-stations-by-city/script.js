@@ -44,5 +44,5 @@ function makeChart(cities) {
 }
 
 // Request data using D3
-d3.csv('https://raw.githubusercontent.com/ksens/airdata/main/AQI_all_station2020_12_01T12_00_00Z_aggregate_by_city.csv')
+d3.csv('https://raw.githubusercontent.com/ksens/airdata/master/AQI_all_station2020_12_01T12_00_00Z_aggregate_by_city.csv')
   .then(makeChart);
